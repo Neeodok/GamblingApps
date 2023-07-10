@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_splash"
+    tools:context=".ChooseGameActivity">
+
+    <ImageView
+        android:id="@+id/imageViewWelcome"
+        android:layout_width="220dp"
+        android:layout_height="90dp"
+        android:background="@drawable/img_games"
+        android:shadowColor="#00ff00"
+        android:shadowRadius="100"
+        app:layout_constraintBottom_toTopOf="@+id/guideline"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="200dp" />
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="350dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline" >
+
+        <TextView
+            android:id="@+id/btn_game1"
+            android:layout_width="280dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/tv_gamesbonus"
+            android:fontFamily="@font/rationale"
+            android:gravity="center_vertical"
+            android:text="Games 1"
+            android:padding="20dp"
+            android:textColor="@color/white"
+            android:textSize="38sp"/>
+        <ImageView
+            android:id="@+id/img_1game"
+            android:layout_width="90dp"
+            android:layout_height="95dp"
+            android:background="@drawable/img_firstgame"
+            android:layout_alignRight="@+id/btn_game1"
+            android:layout_marginRight="10dp"/>
+
+        <TextView
+            android:id="@+id/btn_game2"
+            android:layout_width="280dp"
+            android:layout_height="100dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/tv_gamesbonus"
+            android:fontFamily="@font/rationale"
+            android:gravity="center_vertical"
+            android:padding="20dp"
+            android:text="Games 2"
+            android:textColor="@color/white"
+            android:textSize="38sp" />
+        <ImageView
+            android:id="@+id/img_2game"
+            android:layout_width="90dp"
+            android:layout_height="95dp"
+            android:background="@drawable/img_secondgame"
+            android:layout_centerInParent="true"
+            android:layout_alignRight="@id/btn_game2"/>
+
+
+        <TextView
+            android:id="@+id/btn_gamebonus"
+            android:layout_width="280dp"
+            android:layout_height="100dp"
+            android:background="@drawable/tv_gamesbonus"
+            android:fontFamily="@font/rationale"
+            android:gravity="center"
+            android:text="Bonus Game"
+            android:padding="10dp"
+            android:textColor="@color/white"
+            android:textSize="38sp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"/>
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

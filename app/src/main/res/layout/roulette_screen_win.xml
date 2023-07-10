@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg_roulette"
+    tools:context=".games.FirstSlotsActivity">
+
+    <ImageView
+        android:id="@+id/tv_bonus"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@drawable/text_bonus"
+        app:layout_constraintBottom_toTopOf="@+id/relativeLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+       >
+
+
+        <RelativeLayout
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_centerInParent="true"
+            >
+
+            <RelativeLayout
+                android:id="@+id/wheel_roulette"
+                android:layout_width="350dp"
+                android:layout_height="350dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/roulette_empty">
+
+                <View
+                    android:id="@+id/convert0"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="110sp"
+                    android:layout_marginTop="30sp"
+                    android:background="@drawable/roulette_q0"
+                    android:rotation="-41" />
+
+                <View
+                    android:id="@+id/convert1"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="45dp"
+                    android:layout_marginTop="75dp"
+                    android:background="@drawable/roulette_q1"
+                    android:rotation="-37" />
+
+                <View
+                    android:id="@+id/convert2"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="25sp"
+                    android:layout_marginTop="150sp"
+                    android:background="@drawable/roulette_q2"
+                    android:rotation="-80" />
+
+                <View
+                    android:id="@+id/convert3"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="50sp"
+                    android:layout_marginTop="230sp"
+                    android:background="@drawable/roulette_q3"
+                    android:rotation="-110" />
+
+                <View
+                    android:id="@+id/convert4"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="110sp"
+                    android:layout_marginBottom="30sp"
+                    android:background="@drawable/roulette_q0"
+                    android:rotation="-160" />
+
+                <View
+                    android:id="@+id/convert5"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginEnd="110sp"
+                    android:layout_marginBottom="30sp"
+                    android:background="@drawable/roulette_q1"
+                    android:rotation="-183" />
+
+                <View
+                    android:id="@+id/convert6"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="230sp"
+                    android:layout_marginEnd="50sp"
+                    android:background="@drawable/roulette_q2"
+                    android:rotation="136" />
+
+                <View
+                    android:id="@+id/convert7"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="150sp"
+                    android:layout_marginEnd="25sp"
+                    android:background="@drawable/roulette_q3"
+                    android:rotation="100" />
+
+                <View
+                    android:id="@+id/convert8"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="75sp"
+                    android:layout_marginEnd="45sp"
+                    android:background="@drawable/roulette_q0"
+                    android:rotation="38" />
+
+                <View
+                    android:id="@+id/convert9"
+                    android:layout_width="45sp"
+                    android:layout_height="45sp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="30sp"
+                    android:layout_marginEnd="110sp"
+                    android:background="@drawable/roulette_q2"
+                    android:rotation="30" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:background="@drawable/center_roulette" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="65dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="125dp"
+            android:background="@drawable/indicator_roulette" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="340dp"
+        android:layout_height="140dp"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/relativeLayout">
+
+        <TextView
+            android:id="@+id/tv_bet"
+            android:layout_width="150dp"
+            android:layout_height="55dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/tv_gamesbonus"
+            android:fontFamily="@font/rationale"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="38sp"
+            android:text="1000"/>
+
+        <TextView
+            android:id="@+id/btn_spin"
+            android:layout_width="190dp"
+            android:layout_height="55dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:text="Start"
+            android:gravity="center"
+            android:textSize="36dp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/rationale"
+            android:background="@drawable/tv_splash" />
+
+        <TextView
+            android:id="@+id/btn_minus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/btn_updown"
+            android:gravity="center"
+            android:fontFamily="@font/rationale"
+            android:text="-"
+            android:textColor="@color/white"
+            android:textSize="38sp"
+            android:layout_alignTop="@id/tv_bet"
+            android:layout_marginTop="7dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="40dp"
+            />
+
+
+        <TextView
+            android:id="@+id/btn_plus"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignTop="@id/tv_bet"
+            android:layout_marginTop="7dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="40dp"
+            android:background="@drawable/btn_updown"
+            android:fontFamily="@font/rationale"
+            android:gravity="center"
+            android:text="+"
+            android:textColor="@color/white"
+            android:textSize="38sp" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout-land/second_slots_screens.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout-land/second_slots_screens.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout-land/first_slots_screen.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout-land/first_slots_screen.xml"
+    }
+]

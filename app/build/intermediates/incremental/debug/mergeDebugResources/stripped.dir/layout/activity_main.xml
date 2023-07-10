@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_splash"
+    tools:context=".UserActivity">
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="220dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="180dp"
+        android:background="@drawable/img_sign_up"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:shadowColor="#00ff00"
+        android:shadowRadius="100"/>
+
+    <EditText
+        android:id="@+id/etPhone"
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/tv_gamesbonus"
+        android:fontFamily="@font/rationale"
+        android:gravity="center"
+        android:inputType="phone"
+        android:maxLength="13"
+        android:paddingHorizontal="10dp"
+        android:text="+"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:shadowColor="#00ff00"
+        android:shadowRadius="100"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <TextView
+        android:id="@+id/btn_start"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/tv_splash"
+        android:fontFamily="@font/rationale"
+        android:gravity="center"
+        android:shadowColor="#00ff00"
+        android:shadowRadius="100"
+        android:text="START"
+        android:textColor="@color/white"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etPhone" />
+
+    <TextView
+        android:id="@+id/btn_anon_mode"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:text="Anonymous Mode"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="@font/rationale"
+        android:gravity="center"
+        android:shadowColor="#00ff00"
+        android:shadowRadius="100"
+        android:textColor="@color/white"
+        android:textSize="26sp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

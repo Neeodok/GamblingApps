@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.goldrush.offortune.app-mergeDebugResources-35:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\Desktop\\Api2proj\\162-android\\app\\src\\main\\res\\values-v30\\themes.xml",
+                    "from": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,816",
+                        "endLines": "14,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "810,1083"
+                    },
+                    "to": {
+                        "startLines": "2,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "100,692",
+                        "endLines": "14,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "687,959"
+                    }
+                }
+            ]
+        }
+    ]
+}

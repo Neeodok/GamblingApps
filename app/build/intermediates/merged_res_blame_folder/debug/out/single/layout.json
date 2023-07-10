@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/pointersss.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/pointersss.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/roulette_screen_win.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/roulette_screen_win.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/settings_screen.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/settings_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/menu_screen.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/menu_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/second_slots_screens.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/second_slots_screens.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/first_slots_screen.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/first_slots_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/choose_game_screen.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/choose_game_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-mergeDebugResources-36:/layout/activity_splash.xml",
+        "source": "com.goldrush.offortune.app-main-39:/layout/activity_splash.xml"
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_bg_second_slots.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/bg_second_slots.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/raw_sound_view_roulett.mp3.flat",
+        "source": "com.goldrush.offortune.app-main-39:/raw/sound_view_roulett.mp3"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_holder_first_slots.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/holder_first_slots.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/anim_diagonaltranslate.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/anim/diagonaltranslate.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_btn_first_slots.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/btn_first_slots.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic2_3.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic2_3.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_settings_screen.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/settings_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_img_games.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/img_games.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic2_2.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic2_2.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_tv_first_slots.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/tv_first_slots.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout-land_first_slots_screen.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout-land/first_slots_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_roulette_empty.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/roulette_empty.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic1_2.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic1_2.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_text_bonus.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/text_bonus.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_roulette_screen_win.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/roulette_screen_win.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/animator_winanim.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/animator/winanim.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_roulette_q3.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/roulette_q3.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_bg_first_slots_land.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/bg_first_slots_land.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_btn_up.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/btn_up.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout-land_second_slots_screens.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout-land/second_slots_screens.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_bg_sec_slots_land.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/bg_sec_slots_land.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_img_firstgame.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/img_firstgame.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_sound_off.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/sound_off.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/raw_sound_slots_moves.mp3.flat",
+        "source": "com.goldrush.offortune.app-main-39:/raw/sound_slots_moves.mp3"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/animator_animpulse.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/animator/animpulse.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_roulette_q1.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/roulette_q1.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic1_4.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic1_4.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_custom_radio_normal.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/custom_radio_normal.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_first_slots_screen.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/first_slots_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_custom_radio_selected.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/custom_radio_selected.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic2_4.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic2_4.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_indicator_roulette.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/indicator_roulette.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_full_roulette.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/full_roulette.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_choose_game_screen.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/choose_game_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_music_off.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/music_off.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_menu_screen.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/menu_screen.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_second_slots_screens.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/second_slots_screens.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/raw_sound_btn_start.mp3.flat",
+        "source": "com.goldrush.offortune.app-main-39:/raw/sound_btn_start.mp3"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_bg_splash.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/bg_splash.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/mipmap_ic_launcher.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic1_1.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic1_1.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic2_1.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic2_1.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_img_welcome.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/img_welcome.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/font_a_monument.ttf.flat",
+        "source": "com.goldrush.offortune.app-main-39:/font/a_monument.ttf"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_bg_roulette.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/bg_roulette.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_sound_on.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/sound_on.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/font_rationale.ttf.flat",
+        "source": "com.goldrush.offortune.app-main-39:/font/rationale.ttf"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/anim_anim_fromtop_slots.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/anim/anim_fromtop_slots.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_tv_splash.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/tv_splash.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_img_settings.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/img_settings.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/raw_sound_btn_bet.mp3.flat",
+        "source": "com.goldrush.offortune.app-main-39:/raw/sound_btn_bet.mp3"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_roulette_q0.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/roulette_q0.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_holder_second_slots.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/holder_second_slots.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/font_poppins.ttf.flat",
+        "source": "com.goldrush.offortune.app-main-39:/font/poppins.ttf"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic1_5.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic1_5.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic2_5.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic2_5.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/anim_alpha.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/anim/alpha.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_img_secondgame.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/img_secondgame.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic1_0.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic1_0.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_custom_radio_selector.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/custom_radio_selector.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic2_0.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic2_0.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_bg_first_slots.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/bg_first_slots.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_music_on.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/music_on.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_img_sign_up.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/img_sign_up.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_tv_gamesbonus.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/tv_gamesbonus.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_activity_splash.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_center_roulette.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/center_roulette.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_ic1_3.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/ic1_3.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_btn_updown.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/btn_updown.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/drawable_roulette_q2.png.flat",
+        "source": "com.goldrush.offortune.app-main-39:/drawable/roulette_q2.png"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_pointersss.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/pointersss.xml"
+    },
+    {
+        "merged": "com.goldrush.offortune.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "com.goldrush.offortune.app-main-39:/layout/activity_main.xml"
+    }
+]
