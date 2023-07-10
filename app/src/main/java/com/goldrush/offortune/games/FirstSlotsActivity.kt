@@ -40,7 +40,7 @@ class FirstSlotsActivity : AppCompatActivity() {
     private val tvBetScore by lazy { binding.tvBetScore }
     private val tvBankScore by lazy { binding.tvBankScore }
     private val tvWinScore by lazy { binding.tvWinScore }
-    private val animLottie by lazy { binding.animationWinLottie }
+   // private val animLottie by lazy { binding.animationWinLottie }
     private var isClickable = false
 
     private val drawab = listOf(
@@ -303,14 +303,14 @@ class FirstSlotsActivity : AppCompatActivity() {
                     showWinAnim(it)
 
                     doSounds(this@FirstSlotsActivity,SoundConst.VIEW)
-                    animLottie.visibility = View.VISIBLE
+                    //animLottie.visibility = View.VISIBLE
 
                     bankLiveData.postValue(bankLiveData.value!!.plus(betLiveData.value!! * 10))
 
                     totalWinLiveData.postValue(totalWinLiveData.value!!.plus(betLiveData.value!! * 10))
 
                     delay(3800)
-                    animLottie.visibility = View.INVISIBLE
+                    //animLottie.visibility = View.INVISIBLE
 
                 }
             }
@@ -319,14 +319,14 @@ class FirstSlotsActivity : AppCompatActivity() {
                     showWinAnim(it)
                     doSounds(this@FirstSlotsActivity,SoundConst.VIEW)
 
-                    animLottie.visibility = View.VISIBLE
+                    //animLottie.visibility = View.VISIBLE
 
                     bankLiveData.postValue(bankLiveData.value!!.plus(betLiveData.value!! * 100))
 
                     totalWinLiveData.postValue(totalWinLiveData.value!!.plus(betLiveData.value!! * 100))
 
                     delay(3800)
-                    animLottie.visibility = View.INVISIBLE
+                    //animLottie.visibility = View.INVISIBLE
                 }
             }
             onOffButtons()
